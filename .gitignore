@@ -1,0 +1,6 @@
+*.py[co]
+queba-etl.*
+
+
+__pycache__
+[_.]ignore
